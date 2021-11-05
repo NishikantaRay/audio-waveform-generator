@@ -8,7 +8,7 @@ var wf = new WFPlayer({
 });
 
 wf.load(document.querySelector('#audio'));
-wf.seek(second);
+
 
 // or
 // wf.load('path/to/audio.mp3');
