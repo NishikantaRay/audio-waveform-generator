@@ -1,1 +1,8 @@
-# audio-waveform-generator
+
+# Audio Waveform Generator 
+
+## Screenshots
+
+![App Screenshot](download.png)
+
+
