@@ -1,0 +1,15 @@
+{
+  "name": "audio",
+  "version": "1.0.0",
+  "description": "audio waveform",
+  "main": "index.js",
+  "dependencies": {
+    "wfplayer": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishikanta Ray",
+  "license": "ISC"
+}
